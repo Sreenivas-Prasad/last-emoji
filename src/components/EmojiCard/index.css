@@ -1,0 +1,13 @@
+/* Write your code here. */
+.button1 {
+  background-color: #ffffff33;
+  border: solid 1px #ffffff30;
+  margin: 9px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.button-img {
+  height: 36px;
+  width: 36px;
+}
